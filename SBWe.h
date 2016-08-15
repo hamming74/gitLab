@@ -22,20 +22,9 @@
 /*
  微信预下单接口参数构造
  */
-- (NSDictionary*)paywithtx:(NSString*)tx
-                merOrderId:(NSString*)merOrderId
-                    mer_no:(NSString*)mer_no
-                  merAppId:(NSString*)merAppId
-                 merUserId:(NSString*)merUserId
-                 goodsName:(NSString*)goodsName
-               goodsDetail:(NSString*)goodsDetail
-                  orderAmt:(NSString*)orderAmt
-             payExpireTime:(NSString*)payExpireTime
-                  currency:(NSString*)currency
-                terminalIp:(NSString*)terminalIp
-                 notifyUrl:(NSString*)notifyUrl
-              merOrderDate:(NSString*)merOrderDate
-                  sign_msg:(NSString*)sign_msg;
+/**
+ *  哈哈哈，这就是结果
+ */
 
 
 /*
